@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn]()]([https://facebook.com/yourprofile](https://www.linkedin.com/in/jannatul-ferdaues-soha-6854a2252/))
+[![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://facebook.com/yourprofile)
 
 ---
 
