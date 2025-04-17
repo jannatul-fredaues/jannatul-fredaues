@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jannatul Ferdaues👋</h1>
 
-<p align="center">I am currently in the learning stage of Artificial Intelligence (AI). I have a basic knowledge of the following programming languages and technologies:</p>
+<p align="center">I am currently in the learning stage of Artificial Intelligence (AI). I have a basic knowledge of the following programming languages and technologies.</p>
 
 ---
 
 ### 🌐 Connect with me:
-[![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://facebook.com/yourprofile)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jannatul-ferdaues-soha-6854a2252/)
 
 ---
 
