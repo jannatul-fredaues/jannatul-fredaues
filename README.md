@@ -17,7 +17,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="rlang" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rlang/rlang-original.svg" />
+<img align="left" alt="hugging face" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugging face/hugging face-original.svg" />
 <img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <br><br>
 
