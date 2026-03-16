@@ -41,7 +41,10 @@
 ### 📊 GitHub Stats:
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatul ferdaues&" alt="jannatul-ferdaues" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatul-ferdaues&" alt="jannatul-ferdaues" /></p>
 
 ### 📈 GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> ### 💻 Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=jannatul-ferdaues&show_icons=true&theme=tokyonight" /> 
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-ferdaues&layout=compact&theme=tokyonight" />
