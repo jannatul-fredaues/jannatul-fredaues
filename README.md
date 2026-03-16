@@ -2,6 +2,7 @@
 
 <p align="center">I am currently in the learning stage of Artificial Intelligence (AI). I have a basic knowledge of the following programming languages and technologies.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatul-ferdaues&label=Profile%20views&color=0e75b6&style=flat" alt="jannatul-ferdaues" /> </p>
 ---
 
 ### 🌐 Connect with me:
