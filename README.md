@@ -12,13 +12,28 @@
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+
 <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="hugging face" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugging face/hugging face-original.svg" />
+
 <img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="HuggingFace" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+
+<img align="left" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+
+<img align="left" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+
+<img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+
+<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
 <br><br>
 
 ---
@@ -26,8 +41,7 @@
 ### 📊 GitHub Stats:
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-reza&" alt="shawon-reza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatul ferdaues&" alt="jannatul-ferdaues" /></p>
 
-### 📈 Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaue&layout=compact)
+### 📈 GitHub Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> ### 💻 Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
