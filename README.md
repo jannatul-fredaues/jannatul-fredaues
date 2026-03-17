@@ -42,15 +42,28 @@
 
 -------------------
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatul-ferdaues&" alt="jannatul-ferdaues"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 
-### 📈 GitHub Stats 
-[ ! [Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&count private=true&show icons=true&theme=radical&hide rank=false)]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&langs_count=6&theme=default"/>
 
-( https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-ferdaues&layout=compact&theme=tokyonight" />
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=default&hide_border=false"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatul-fredaues&theme=github-compact"/>
+</p>
