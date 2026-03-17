@@ -26,9 +26,7 @@
 
 ### 🌐 Connect with me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jannatul-ferdaues-soha-6854a2252/)
-
 <a href="https://huggingface.co/jannatul-ferdaues"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/></a>
-
 <a href="https://www.kaggle.com/jannatulferdaues"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 
 -------------------
