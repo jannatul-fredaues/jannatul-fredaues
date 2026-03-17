@@ -4,12 +4,32 @@
 
 -------------------
 
+## 🧠 About Me
+
+💡 AI & ML enthusiast building intelligent systems using Machine Learning and Deep Learning.
+
+🔬 Interested in:
+- Computer Vision
+- Natural Language Processing
+- AI-powered Web Platforms
+
+⚙️ Currently working on:
+- Image dataset creation
+- Background removal pipelines
+- AI review scoring systems
+
+-------------------
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatul-ferdaues&label=Profile%20views&color=0e75b6&style=flat" alt="jannatul-ferdaues" /> </p>
 
 -------------------
 
 ### 🌐 Connect with me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jannatul-ferdaues-soha-6854a2252/)
+
+<a href="https://huggingface.co/jannatul-ferdaues"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/></a>
+
+<a href="https://www.kaggle.com/jannatulferdaues"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 
 -------------------
 
