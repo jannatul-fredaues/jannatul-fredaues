@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Jannatul Ferdaues👋</h1>
+<h1 align="center">Hi, I'm Jannatul Ferdaues</h1>
 
 <p align="center">I am currently in the learning stage of Artificial Intelligence (AI). I have a basic knowledge of the following programming languages and technologies.</p>
 
 -------------------
 
-## 🧠 About Me
+#  About Me
 
-💡 AI & ML enthusiast building intelligent systems using Machine Learning and Deep Learning.
+## AI & ML enthusiast building intelligent systems using Machine Learning and Deep Learning.
 
-🔬 Interested in:
+### Interested in:
 - Computer Vision
 - Natural Language Processing
 - AI-powered Web Platforms
 
-⚙️ Currently working on:
+### Currently working on:
 - Image dataset creation
 - Background removal pipelines
 - AI review scoring systems
@@ -24,14 +24,14 @@
 
 -------------------
 
-### 🌐 Connect with me:
+###  Connect with me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jannatul-ferdaues-soha-6854a2252/)
 <a href="https://huggingface.co/jannatul-ferdaues"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/></a>
 <a href="https://www.kaggle.com/jannatulferdaues"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 
 -------------------
 
-### 🧰 Languages and Tools:
+###  Languages and Tools:
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 
@@ -60,7 +60,7 @@
 
 -------------------
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=default&hide_border=false"/>
