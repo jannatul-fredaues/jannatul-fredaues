@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Jannatul Ferdaues</h1>
 
-<p align="center">I am currently in the learning stage of Artificial Intelligence (AI). I have a basic knowledge of the following programming languages and technologies.</p>
+<p align="center">AI & Machine Learning enthusiast building intelligent systems using computer vision, NLP, deep learning, and LLM-powered applications.</p>
 
 -------------------
-
-#  About Me
-
-## AI & ML enthusiast building intelligent systems using Machine Learning and Deep Learning.
 
 ### Interested in:
 - Computer Vision
@@ -29,6 +25,23 @@
 <a href="https://huggingface.co/jannatul-ferdaues"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/></a>
 <a href="https://www.kaggle.com/jannatulferdaues"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 
+-------------------
+
+## Achievements
+
+ Built 6+ AI projects
+ Active Kaggle learner
+ Working with NLP and Computer Vision
+ 679+ GitHub contributions
+
+-------------------
+
+## Specializing in:
+
+Computer Vision
+Natural Language Processing
+LLM Applications
+AI Web Systems
 -------------------
 
 ###  Languages and Tools:
@@ -80,8 +93,9 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatul-fredaues&theme=github-compact"/>
 </p>
+
