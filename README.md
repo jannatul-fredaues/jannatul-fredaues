@@ -76,21 +76,17 @@
 ##  GitHub Stats
 
 <p align="center">
-[<table>
-<tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&theme=default"/>
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=default)](https://github.com/jannatul-fredaues)
 
-</td>
+<!-- Activity / PR / Issues / Stars -->
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannatul-fredaues&theme=default)](https://github.com/jannatul-fredaues)
 
-<td>
+<!-- Extra stats -->
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannatul-fredaues&theme=default)](https://github.com/jannatul-fredaues)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=default"/>
-
-</td>
-</tr>
-</table>
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=default)](https://github.com/jannatul-fredaues)
 </p>
 
 ---
