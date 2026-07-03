@@ -29,19 +29,19 @@
 
 ## Achievements
 
- ** Built 6+ AI projects
- *Active Kaggle learner
- *Working with NLP and Computer Vision
+* Built 6+ AI projects
+* Active Kaggle learner
+* Working with NLP and Computer Vision
 * 679+ GitHub contributions
 
 -------------------
 
 ## Specializing in:
 
-Computer Vision
-Natural Language Processing
-LLM Applications
-AI Web Systems
+* Computer Vision
+* Natural Language Processing
+* LLM Applications
+* AI Web Systems
 -------------------
 
 ###  Languages and Tools:
@@ -76,9 +76,9 @@ AI Web Systems
 ##  GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?user=jannatul-fredaues&show_icons=true&cache_seconds=86400)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&cache_seconds=86400)](https://github.com/jannatul-fredaues)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jannatul-fredaues)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=jannatul-fredaues)](https://git.io/streak-stats)
 </p>
 
 ---
