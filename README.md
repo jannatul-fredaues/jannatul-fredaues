@@ -76,13 +76,21 @@
 ##  GitHub Stats
 
 <p align="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&theme=vue)](https://github.com/jannatul-fredaues)
+[<table>
+<tr>
+<td>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=vue)](https://github.com/jannatul-fredaues)
+<img src="https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&theme=default"/>
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=jannatul-fredaues&theme=vue)](https://git.io/streak-stats)
+</td>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jjannatul-fredauess&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=default"/>
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
