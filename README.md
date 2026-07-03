@@ -29,10 +29,10 @@
 
 ## Achievements
 
- Built 6+ AI projects
- Active Kaggle learner
- Working with NLP and Computer Vision
- 679+ GitHub contributions
+ ** Built 6+ AI projects
+ *Active Kaggle learner
+ *Working with NLP and Computer Vision
+* 679+ GitHub contributions
 
 -------------------
 
