@@ -78,10 +78,10 @@
 <p align="center">
 
 <!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=default)](https://github.com/jannatul-fredaues)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=vue)](https://github.com/jannatul-fredaues)
 
 <!-- Activity / PR / Issues / Stars -->
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannatul-fredaues&theme=default)](https://github.com/jannatul-fredaues)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannatul-fredaues&theme=vue)](https://github.com/jannatul-fredaues)
 
 <table>
 <tr>
@@ -105,7 +105,7 @@
 ##  Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=default&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=vue&hide_border=false"/>
 </p>
 
 ---
@@ -113,6 +113,6 @@
 ##  Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatul-fredaues&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatul-fredaues&theme=vue"/>
 </p>
 
