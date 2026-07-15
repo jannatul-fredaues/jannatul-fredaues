@@ -78,7 +78,7 @@
 <p align="center">
 
 <!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=vue)](https://github.com/jannatul-fredaues)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-ferdaues&layout=compact&theme=vue)](https://github.com/jannatul-ferdaues)
 
 <!-- Activity / PR / Issues / Stars -->
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannatul-fredaues&theme=vue)](https://github.com/jannatul-fredaues)
