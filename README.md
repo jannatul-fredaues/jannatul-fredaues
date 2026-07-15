@@ -85,13 +85,13 @@
 <tr>
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannatul-fredaues&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannatul-fredaues&theme=defult" />
 
 </td>
 
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=vue&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=defult&utcOffset=6" />
 
 </td>
 </tr>
@@ -103,7 +103,7 @@
 ##  Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=vue&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=jannatul-fredaues&theme=defult&hide_border=false"/>
 </p>
 
 ---
