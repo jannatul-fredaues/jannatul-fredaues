@@ -91,7 +91,7 @@
 
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=defult&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=vun&utcOffset=6" />
 
 </td>
 </tr>
